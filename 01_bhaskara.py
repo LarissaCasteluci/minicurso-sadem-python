@@ -14,4 +14,3 @@ def bhaskara(a,b,c):
         r2 = (-b - math.sqrt(delta))/ (2*a)
         return r1, r2
     
-print(bhaskara(1, 12, -13))
